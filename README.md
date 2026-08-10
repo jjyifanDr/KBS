@@ -1,0 +1,1 @@
+KERN.py is the our proposed method .  parameter_sensetivity_2.py is the parameter sensetivity analysis. ablaiton.py is the ablation experiments.  Please note: you have to install the environments：sentence-transformers , otherwise, incorrect results are obtained. the experimental datas are together inputted into the filefolder Data.
